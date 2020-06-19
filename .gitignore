@@ -22,7 +22,6 @@ npm-debug.log*
 /.sass-cache
 /.sourcemaps
 /.versions
-/.vscode
 /coverage
 /dist
 /node_modules
@@ -30,3 +29,4 @@ npm-debug.log*
 /plugins
 /www
 /.vs
+config.bat
